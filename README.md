@@ -2,7 +2,7 @@
 # Create your Project.
  
  * Open the ``vsCode`` app.
- * Open Command Line ```ctrl+shift+```
+ * Open Command Line ```ctrl+shift+`~``
  * create a new folder ``mkdir`` your folder_name.
  * ``cd`` to your folder_name.
  
