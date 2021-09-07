@@ -53,6 +53,4 @@ app.listen(process.env.PORT || 3000);
 * Click on the purple ``Create App``button
 * Link app to yout ``GitHub``
 * Select your ``repo`
-* ~~Automatic Deploy~~
-* ~~Deploy Branch~~
-* ~~Bingo~~ your got an `awsome app`
+* **Bingo** your got a `super_awsome app`
