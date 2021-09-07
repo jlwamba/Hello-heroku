@@ -52,5 +52,5 @@ app.listen(process.env.PORT || 3000);
 * Select name for your app.**(with uniqure identifier)**
 * Click on the purple ``Create App``button
 * Link app to yout ``GitHub``
-* Select your ``repo`
+* Select your ``repo``
 * **Bingo** your got a `super_awsome app`
