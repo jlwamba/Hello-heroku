@@ -8,12 +8,12 @@
 > 
 >     * [x]  navigate to your workspace, e.g.: `cd Desktop`
 > 
->     * [x]  make your **project root diretory**: `mkdir my-super-awesome-project-name`
+>     * [x]  make your **project root diretory**: `mkdir folder`
 > 
->     * [x]  navigate to the new dir/: `cd my-super-awesome-project-name`
+>     * [x]  navigate to the new dir/: `cd folder`
 > 
 >     * [x]  open up the **project root** in **vsCode**: use the gui...wish I knew the cmd,
->       it's something like: `open -a 'visual studio code' my-super-awesome-project-name`
+>       it's something like: `open -a 'visual studio code' folder`
 > 
 >     * [x]  initialize a **Node.js** project: `$:` `npm init -y`
 > 
@@ -23,7 +23,7 @@
 > 
 >     * [x]  open `index.js` in **vsCode**
 >       
->       * [ ]  create an express server (see the **ghyt repo** for the `source code`)
+>       * [ ]  create an express server (see the **git repo** for the `source code`)
 > 
 >     * [x]  edit `package.json`:
 > 
@@ -64,19 +64,13 @@
 > git push -u origin main
 > ```
 > 
->     * [x]  but might need to make sure we know what we are doing
-> 
 > 
 > ```diff
 > echo "# hello-heroku-or-whatever-you-named-it" >> README.md
 > - git init //we already did this
 > - git add README.md
 > + git add . 
-> ```
-> 
-> point_up add everything, not just the readme
-> 
-> the rest is sunglasses, might have to authenticate/login
+> ``
 > 
 > ```
 > git commit -m "first commit"
@@ -84,6 +78,5 @@
 > git remote add origin https://github.com/{YOUR-USER-NAME}/{YOUR-REPO-NAME}.git
 > git push -u origin main
 > ```
-> 
-> okay...taking a breather. Pick up here later, Cumbie t-rex initializing heroku & running it all.
+
 
